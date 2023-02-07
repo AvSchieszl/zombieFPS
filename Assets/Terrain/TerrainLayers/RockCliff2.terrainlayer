@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1953259897 &8574412962073106934
+TerrainLayer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RockCliff2
+  m_DiffuseTexture: {fileID: 2800000, guid: bb10dd372e4bf024788f8ecf38f97db7, type: 3}
+  m_NormalMapTexture: {fileID: 2800000, guid: 53a39e5d1d2a46f4ab3f0852be7b6cb3, type: 3}
+  m_MaskMapTexture: {fileID: 2800000, guid: cace3ce54905ef4438351542b6e9f859, type: 3}
+  m_TileSize: {x: 30, y: 30}
+  m_TileOffset: {x: 0, y: 0}
+  m_Specular: {r: 0, g: 0, b: 0, a: 0}
+  m_Metallic: 0
+  m_Smoothness: 0
+  m_NormalScale: 1.5
+  m_DiffuseRemapMin: {x: 0, y: 0, z: 0, w: 0}
+  m_DiffuseRemapMax: {x: 1, y: 1, z: 1, w: 1}
+  m_MaskMapRemapMin: {x: 0, y: 0, z: 0, w: 0}
+  m_MaskMapRemapMax: {x: 0.0186567, y: 0.4069762, z: 1, w: 0.44701892}
